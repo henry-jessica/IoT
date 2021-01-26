@@ -30,8 +30,8 @@ The IoT represents the fourth evolutionary stage of development for the Internet
 ### Arduino IDE & Coding Basics
 
 ### Prerequisites
- 1.	Find the Blink tutorial on the Arduino Website [Blink Tutorial](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink) 
- 2.	Open the Arduino Create Integrated Development Environment (IDE), create an account and login [Arduino Create IDE](https://create.arduino.cc/editor) 
+ 1.	Find the Blink tutorial on the Arduino Website [Blink Tutorial](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink)a 
+ 2.	Open the Arduino Create Integrated Development Environment (IDE), create an account and login [Arduino Create IDE](https://create.arduino.cc/editor)b
 
 
 ## Authors
