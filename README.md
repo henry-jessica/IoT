@@ -41,7 +41,7 @@ The IoT represents the fourth evolutionary stage of development for the Internet
 * This subject was advised by **Mary Loftus** -  *IT SLigo Lecturer* - [Mary GitHub](https://github.com/marloft)  
 
 
-## License
+## 📝License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
