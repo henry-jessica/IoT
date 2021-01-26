@@ -2,14 +2,17 @@
 
 ![image IoT](https://github.com/henry-jessica/IoT_Project/blob/main/IoTS.png)
 
+
+## 🚀 Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+
 ## 💻 Goal 
 ##### ->  Get familiar with the Arduino Yun 
 ##### ->  Get familiar with the Grove Kit
 ##### ->  Setup a GitHub account, create a repository & push a commit
 ##### ->  Commit Arduino code to your GitHub repository
-
-
-### Arduino IDE & Coding Basics
 
 
 #### INTERNET OF THINGS
@@ -24,6 +27,33 @@ The IoT represents the fourth evolutionary stage of development for the Internet
 [![How It Works: Internet of Things](http://img.youtube.com/vi/QSIPNhOiMoE/0.jpg)](http://www.youtube.com/watch?v=QSIPNhOiMoE "more about")
 
 
+### Arduino IDE & Coding Basics
 
-# 🚀 About this Project
+### Prerequisites
+* 1.	Find the Blink tutorial on the Arduino Website [Blink Tutorial](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink) 
+* 2.	Open the Arduino Create Integrated Development Environment (IDE), create an account and login [Arduino Create IDE](https://create.arduino.cc/editor) 
+
+
+## Authors
+
+* **Jessica Henry** - *Internet of Things all works* - [IoT GitHub Rep](https://github.com/henry-jessica)
+
+* This subject was advised by **Mary Loftus** -  *IT SLigo Lecturer* - [Mary GitHub](https://github.com/marloft)  
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Portfolio/Job 
+* Follow my own tech evolution 
+* Inspiration
+* etc
+
+
+
+
 
