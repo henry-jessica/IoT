@@ -9,10 +9,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ## 💻 Goal 
-##### ->  Get familiar with the Arduino Yun 
-##### ->  Get familiar with the Grove Kit
-##### ->  Setup a GitHub account, create a repository & push a commit
-##### ->  Commit Arduino code to your GitHub repository
+ * Get familiar with the Arduino Yun 
+ * Get familiar with the Grove Kit
+ * Setup a GitHub account, create a repository & push a commit
+* Commit Arduino code to your GitHub repository
 
 
 #### INTERNET OF THINGS
