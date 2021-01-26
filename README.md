@@ -2,7 +2,7 @@
 
 ![image IoT](https://github.com/henry-jessica/IoT_Project/blob/main/IoTS.png)
 
-## Goal
+## 💻 Goal 
 ##### ->  Get familiar with the Arduino Yun 
 ##### ->  Get familiar with the Grove Kit
 ##### ->  Setup a GitHub account, create a repository & push a commit
@@ -22,3 +22,8 @@ The IoT represents the fourth evolutionary stage of development for the Internet
 ### Watch the video about IoT
 
 [![How It Works: Internet of Things](http://img.youtube.com/vi/QSIPNhOiMoE/0.jpg)](http://www.youtube.com/watch?v=QSIPNhOiMoE "more about")
+
+
+
+# 🚀 About this Project
+
