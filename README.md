@@ -1,4 +1,4 @@
-# Internet of Things -  
+# Internet of Things 
 
 ![image IoT](https://github.com/henry-jessica/IoT_Project/blob/main/IoTS.png)
 
@@ -36,10 +36,10 @@ The IoT represents the fourth evolutionary stage of development for the Internet
 
 ## Authors
 
-* **Jessica Henry** - *Internet of Things all works* - [IoT GitHub Rep](https://github.com/henry-jessica)
-* **Davey Feeney** - *Internet of Things all works* - [IoT GitHub Rep](https://github.com/Davey-Feeney18)
-* **Cillian Mc Meekin** - *Internet of Things all works* - [IoT GitHub Rep](https://github.com/CMcMeekin2002)
-* **Paul Mc Gonigle** - *Internet of Things all works* - [IoT GitHub Rep](https://github.com/goniglep57)
+* **Jessica Henry** - *Internet of Things all works* - [GitHub](https://github.com/henry-jessica)
+* **Davey Feeney** - *Internet of Things all works* - [GitHub](https://github.com/Davey-Feeney18)
+* **Cillian Mc Meekin** - *Internet of Things all works* - [GitHub](https://github.com/CMcMeekin2002)
+* **Paul Mc Gonigle** - *Internet of Things all works* - [GitHub](https://github.com/goniglep57)
 
 
 * This subject was advised by **Mary Loftus** -  *IT SLigo Lecturer* - [Mary GitHub](https://github.com/marloft)  
@@ -54,6 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Portfolio/Job 
 * Follow my own tech evolution 
 * Inspiration
+* Problem Solving 
 
 
 
